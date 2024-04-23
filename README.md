@@ -74,7 +74,7 @@ Registration numbr : 212223040014
 # Truth Table :
 ## Half-adder:
 ![318335599-60a9abae-d18e-4818-b5ef-8952db99af48](https://github.com/amirthaviswanathan05/HALF_ADDER_SUBTRACTOR/assets/149035397/57224de0-4a0d-4492-9672-752740568d6c)
-##Half-subtractor:
+## Half-subtractor:
 ![318335651-1ea5f214-b822-49fe-ad71-ccd4cd0d05b6](https://github.com/amirthaviswanathan05/HALF_ADDER_SUBTRACTOR/assets/149035397/3742744e-eec4-4804-9e4f-30b884707449)
 
 
