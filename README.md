@@ -45,27 +45,31 @@ Figure -02 HALF Subtractor
 
 5.	For different input combinations generate the timing diagram.
 
-Program:
+# Program:
 
-##Half-adder:
-'''
+## Half-adder:
+```
 module half_adder(a,b,sum,carry);
 input a,b;
 output sum,carry; 
 assign sum = a^b;
 assign carry = a & b;
 endmodule
-'''
-
-##Half-subtractor:
-'''
+```
+## Half-subtractor:
+```
 module halfsub_top(a,b,D,Bo);
 input a,b;
 output D,Bo; // Outputs sum and carry for half adder:Outputs difference D,Borrow Bo for half subtractor
 assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
-'''
+```
+
+```
+Developed by : Abdur Rahman Basil A H
+Registration numbr : 21222340002
+```
 
 '''
 Developed by : Amirthavarshini V
