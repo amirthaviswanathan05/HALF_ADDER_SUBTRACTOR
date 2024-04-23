@@ -71,20 +71,20 @@ Developed by : Amirthavarshini V
 Registration numbr : 212223040014
 ```
 
-#Truth Table :
-##Half-adder:
+# Truth Table :
+## Half-adder:
 ![318335599-60a9abae-d18e-4818-b5ef-8952db99af48](https://github.com/amirthaviswanathan05/HALF_ADDER_SUBTRACTOR/assets/149035397/57224de0-4a0d-4492-9672-752740568d6c)
 ##Half-subtractor:
 ![318335651-1ea5f214-b822-49fe-ad71-ccd4cd0d05b6](https://github.com/amirthaviswanathan05/HALF_ADDER_SUBTRACTOR/assets/149035397/3742744e-eec4-4804-9e4f-30b884707449)
 
 
 
-#RTL Schematic:
+# RTL Schematic:
 ![318334898-f6224e20-50a1-409a-8bc1-f2ef269ba441](https://github.com/amirthaviswanathan05/HALF_ADDER_SUBTRACTOR/assets/149035397/d33b4ced-8965-4f80-ac45-96f1355f1d7f)
 
-#Output/TIMING Waveform:
+# Output/TIMING Waveform:
 ![318334951-8dc652fc-3540-4585-94ba-69fa4c2b946f](https://github.com/amirthaviswanathan05/HALF_ADDER_SUBTRACTOR/assets/149035397/2a4f9085-033e-4ca0-b3e5-71385b9ffc0c)
 ![318334978-c9d7d3a6-97d9-4b6e-b49d-92cf274e6677](https://github.com/amirthaviswanathan05/HALF_ADDER_SUBTRACTOR/assets/149035397/fcf87b7e-be84-40b1-bb21-9f4c9692aebd)
 
-Result:
+# Result:
 Hence the output was verified successfully.
